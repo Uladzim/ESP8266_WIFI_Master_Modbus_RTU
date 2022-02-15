@@ -1,5 +1,5 @@
-# ESP8266_WIFI_Master_Modbus_RTU
-ESP8266_WIFI_Master_Modbus_RTU
+# ESP8266 WIFI Master Modbus RTU
+ESP8266 WIFI Master Modbus_RTU
 
 Как это работает:
 
